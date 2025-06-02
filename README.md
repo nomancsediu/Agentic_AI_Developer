@@ -111,10 +111,5 @@ This roadmap is perfect for developers, researchers, and AI enthusiasts eager to
 - Deploying scalable agentic AI systems
 - Security, ethical AI, and monitoring
 
----
-
-## Getting Started
-
-To start your journey, explore the [official agentic AI GitHub repo](https://github.com/hwchase17/agentic) and check out [the creator’s website](https://www.hwchase17.com/agentic/) for tutorials and sample projects.
 
 
